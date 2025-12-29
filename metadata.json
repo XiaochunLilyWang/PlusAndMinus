@@ -1,0 +1,5 @@
+{
+  "name": "加减之间 (Between Plus and Minus)",
+  "description": "A strategic card game where players manipulate card values using plus and minus tokens to outsmart an AI opponent over nine rounds.",
+  "requestFramePermissions": []
+}
